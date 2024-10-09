@@ -111,5 +111,5 @@ app.post('/categories', (req, res) => {
 
 // Sunucuyu çalıştır
 app.listen(5003, () => {
-  console.log('Server running on http://localhost:5003');
+  console.log('Server running on https://karaalibackend-426b57487d54.herokuapp.com:5003');
 });
